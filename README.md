@@ -1,1 +1,1 @@
-This a temp repository for model
+This a temp repository for check image detection
